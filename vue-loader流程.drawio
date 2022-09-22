@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T05:48:38.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="G8CkmyvzNcq8aN9bt3zx" version="20.1.1" type="github"><diagram id="llOK8idXEj-mN6eOzLGd" name="Page-1">3VpLc5swEP4tOTA52cNLGB/zcPqYZpppDk166aigGqVgMUK2ob++IgiDEI5JYxuci4ddSUj69tPuarFmXUXpBwrj4Jb4KNRM3U8161ozTRdM+G+uyAqFNTUKxZxiv1DVFPf4LxJKXWiX2EeJ1JEREjIcy0qPLBbIY5IOUkrWcrffJJRnjeEcKYp7D4aq9jv2WSC2ZU4q/UeE50E5s+FMi5YIlp3FTpIA+mRdU1kzzbqihLDiKUqvUJhjV+JSjLvZ0rpZGEUL1mnAZ6J7eHX77evPKI2n0f0n+8dIbGMFw6XYsFgsy0oEkM8BESKhLCBzsoDhrNJeUrJc+CifRudS1ecLITFXGlz5hBjLhHXhkhGuClgUitZiznyirXsTqoQsqYde2FDJEUjniL3Qz95YgDMXkQgxmvFxFIWQ4ZW8Dig4NN/0q2DmDwLpV6BuKKiv0a8Yen8U8GVo1wFm6J53zFvX/Ly1wbhClKH0ZSDVjYsB5kSwdXNchbyuyG+UjA5qxHf0A2FVTvZ+KGp2pCjok6KmgvpqiUYhgT6ig2MpAKAbS8t+e4fLUuDCUcxpxnXnY/7Gizger/Kmm/zXdGCUo1L8sizOxyQexTHrHVsgQ+tYLQ4AHNMBuO/t/L819IihdwQvWGU3ywLymWgapPA3YlTDJptl/L+Z7O0ngJM/T70oiRrH4XwDbJ/OpMF4e9LC+MlRQ57qfE+c8qBjyDP0dlMdJ+aBtztxhqKYLxX1z2pnaH7c2UOIfMazb2jtSQdonWNCO+3gLxb+RX4d5pIXwiTBnoyLDCJHgmYPuTAGpfhYb7tOJSkTUneXsdMVWO02qGHcxt5S98ZgqiSYbsN0hcdTgqnyIltvvEjvFpW5rWBW6xbnHZLtCzZM0LrgilXFG/ca8k015p94nCqrTrsDldlnoDLUO3GMmRcM4momE3HS5hyPW0BQw/qps7RrBcHot8qlprGjs3Ee6uulhBvMcU3HT8nZqadYrtl3imWoZYh9ID6QtMsdGtzmMKrnh0/Wdnsku6tHcnr1SGrCMqiqphw6p20EP2roNNTQKaqUM6C5juaC/OFipl1Oe0fPkcEzdKNv9Mx3V7k0nK7H3O31mKulhk3SMDziNo/9AJhrqIGtAGh46NlTfXDoqed+OJ93m1zr//uu+jFc9ZKvK16lmD2UuRF/fqxSIy5VyVAulLlQPYeSkqiRPtZ1a0cm9SzdIYo5JDyR2Ht61fW+tyW5Ok7NDBjySQTTBmW61sxA414F7MPUzABw5Xlcq8HmQ9TM1FrtXq5ow/h43EjCWq9oe/IuXKz+O1VYp/oDmjX7Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-22T05:48:54.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cw6_ED3yxkxmUANQ5l7G" version="20.1.1" type="github">
+  <diagram id="llOK8idXEj-mN6eOzLGd" name="Page-1">
+    <mxGraphModel dx="857" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-1" target="1Jo0civMRO_mxp9mSI4Z-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-1" value="webpack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-2" target="1Jo0civMRO_mxp9mSI4Z-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-2" value="vue-loader" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="555" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-3" value="import &#39;./App.vue?vue&amp;amp;type=script" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="630" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-4" value="import App from &#39;./App.vue&#39;;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="470" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-5" target="1Jo0civMRO_mxp9mSI4Z-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-5" value="import &#39;./App.vue?vue&amp;amp;type=template" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="630" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-6" value="import &#39;./App.vue?vue&amp;amp;type=style" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="630" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="1Jo0civMRO_mxp9mSI4Z-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="580" as="sourcePoint" />
+            <mxPoint x="400" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="125" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-10" target="1Jo0civMRO_mxp9mSI4Z-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-10" value="pitcher" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-12" target="1Jo0civMRO_mxp9mSI4Z-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-12" value="-!../vue-loader/index.js!./App.vue?vue&amp;amp;type=template" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="820" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-13" value="-!../vue-loader/index.js!./App.vue?vue&amp;amp;type=style" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="820" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-14" target="1Jo0civMRO_mxp9mSI4Z-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-14" value="vue-loader" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-15" value="script内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-16" target="1Jo0civMRO_mxp9mSI4Z-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-16" value="template内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-17" value="style内容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-18" value="webpack" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.55;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1Jo0civMRO_mxp9mSI4Z-2" target="1Jo0civMRO_mxp9mSI4Z-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="590" as="sourcePoint" />
+            <mxPoint x="560" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="558" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Jo0civMRO_mxp9mSI4Z-29" value="-!../vue-loader/index.js!./App.vue?vue&amp;amp;type=script" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="65" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
